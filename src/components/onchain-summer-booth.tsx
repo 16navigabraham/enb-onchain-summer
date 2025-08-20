@@ -318,7 +318,7 @@ export default function OnchainSummerBooth() {
           <Card className="shadow-xl">
             <CardHeader>
               <CardTitle className="font-headline text-3xl text-primary">Onchain Summer Lagos</CardTitle>
-              <CardDescription>Create your profile picture for Onchain Summer. Upload your photo and position it in the frame.</CardDescription>
+              <CardDescription>Create your profile picture for Onchain Summer. Upload your PFP and position it in the frame.</CardDescription>
             </CardHeader>
             <CardContent className="space-y-6">
               <Button onClick={() => fileInputRef.current?.click()} className="w-full">
